@@ -2,8 +2,17 @@ body {
   background-color: lightblue;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 p {
   font-size: 1.5em;
 }
 =======
 >>>>>>> Adicionando estilo ao site
+=======
+p {
+  font-size: 1.5em;
+}
+h1 {
+  font-style: italic;
+}
+>>>>>>> Itálico no h1
